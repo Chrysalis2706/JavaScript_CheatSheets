@@ -6,7 +6,7 @@ Hello Coders </>
 
 ++ This is PARTH DWIVEDI
 
-Hey there, fellow coders and learners! Welcome to my personal JavaScript journey captured in code – the "JavaScript Mastery Cheat Sheet" repository. 🚀
+Hey there, fellow coders and learners! Welcome to my personal JavaScript journey captured in code – the "JavaScript Cheat Sheet" repository. 🚀
 
 As I embarked on the exciting adventure of learning JavaScript, I realized the power of having a handy reference guide that simplifies complex concepts and syntax. This repository is the result of countless hours spent coding, debugging, and refining my understanding of JavaScript.
 
